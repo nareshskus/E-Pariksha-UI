@@ -1,0 +1,14 @@
+.studentNavbar {
+    background: rgb(40,102,203);
+    background: linear-gradient(27deg, rgba(40,102,203,1) 33%, rgba(8,224,188,1) 96%, rgba(6,232,187,1) 100%);
+    text-decoration: none;
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.navItems {
+    color: rgb(255, 255, 255);
+    font-size: medium;
+    margin-left: 20px;
+}

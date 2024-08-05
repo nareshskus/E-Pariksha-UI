@@ -1,0 +1,24 @@
+.examForm {
+    display: inline-block;
+    box-shadow: -3px -3px 9px #aaa9a9a2, 3px 3px 7px rgba(147, 149, 151, 0.671);
+    padding: 25px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    position: relative;
+    margin-top: -80px;
+    margin-left: 20%;
+    background-color: rgba(255, 255, 255, 0.13);
+    backdrop-filter: blur(10px);
+}
+
+.questionForm{
+    display: inline-block;
+    box-shadow: -3px -3px 9px #aaa9a9a2, 3px 3px 7px rgba(147, 149, 151, 0.671);
+    padding: 25px;
+    width: 75%;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.13);
+    backdrop-filter: blur(10px);
+}

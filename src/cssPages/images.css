@@ -1,0 +1,21 @@
+.image-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .image-container {
+    content: "";
+    /* position: absolute; */
+    border-radius: 10px; 
+    /* background: rgb(40,102,203); */
+    /* background: linear-gradient(27deg, rgba(40,102,203,1) 33%, rgba(8,224,188,1) 96%, rgba(6,232,187,1) 100%); */
+  }
+  
+  .image {
+    display: block;
+    border-radius: 10px;
+    /* box-shadow: -3px -3px 9px #aaa9a9a2, 3px 3px 7px rgba(147, 149, 151, 0.671); */
+    /* background: linear-gradient(27deg, rgba(40,102,203,1) 33%, rgba(8,224,188,1) 96%, rgba(6,232,187,1) 100%); */
+    overflow: hidden;
+  }
+  

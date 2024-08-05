@@ -1,0 +1,16 @@
+.exam-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgba(177, 224, 245, 0.313);
+}
+
+.exam-card h6 {
+    color: #333;
+}
+
+.button-container {
+    margin-top: 10px;
+}
